@@ -1,7 +1,7 @@
 ## To watch
-Egregor
-REvil
-Trickbot/Ryuk
+* Egregor
+* REvil
+* Trickbot/Ryuk
 
 
 ## Cool tools
